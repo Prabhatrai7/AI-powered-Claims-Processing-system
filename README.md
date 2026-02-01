@@ -1,5 +1,5 @@
-### AI Powered Claims Processing System
-
+# AI Powered Claims Processing System
+---
 # 🧠 About
 
 AI-Insurance-Claim is an intelligent claim processing system that leverages modern AI/ML tools to analyze insurance claim requests and provide insights or initial evaluations. It aims to streamline traditional claim workflows that are often manual, repetitive, and error-prone.
